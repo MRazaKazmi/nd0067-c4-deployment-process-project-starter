@@ -69,7 +69,7 @@ The e2e tests are using Protractor and Jasmine.
 
 ## Link to Applicaiton
 
-`http://my-udacity-full-stack-bucket.s3-website-us-east-1.amazonaws.com/home`
+http://my-udacity-full-stack-bucket.s3-website-us-east-1.amazonaws.com/home
 
 ## License
 
